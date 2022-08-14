@@ -15,6 +15,6 @@ The best way to support me is to
 
 ## Other features
 
-- It basically replace the formal "insert markdown link", so you can just use my plugin instead
+- It basically replace the formal "add internal link", so you can just use my plugin instead
 
 because if you try to insert a link when no word is selected it works the same way
